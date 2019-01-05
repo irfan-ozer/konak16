@@ -1,0 +1,5 @@
+#banner {height: 400px; font-family: 'Myriad Pro Cond', Arial, sans-serif;}
+#banner .ls-l.text {width: 1140px;}
+#banner .ls-l span {background-color: rgba(1,147,207,0.75); display: inline-block; height: 70px; color: #fff; line-height: 65px; padding: 0 10px; font-size: 48px; letter-spacing: -1px;}
+#banner .ls-l strong {font-size: 60px;}
+#banner .ls-l.text:last-child span {background-color: rgba(1,147,207,0.35);}
